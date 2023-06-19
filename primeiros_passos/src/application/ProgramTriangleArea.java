@@ -3,7 +3,7 @@ package application;
 import java.util.Scanner;
 import entities.Triangle;
 
-public class Program {
+public class ProgramTriangleArea {
     public static void main(String[] args){
         Triangle x, y;
 
